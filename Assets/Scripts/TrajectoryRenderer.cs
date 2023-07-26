@@ -6,6 +6,7 @@ public class TrajectoryRenderer : MonoBehaviour
 
     private void Start()
     {
+        ResetTrajectory();
     }
     public void ResetTrajectory()
     {
