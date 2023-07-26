@@ -70,7 +70,7 @@ GameObject:
   - component: {fileID: 8326591681444137192}
   - component: {fileID: 2611807753632331841}
   m_Layer: 3
-  m_Name: TestBirdPref
+  m_Name: Kopatich
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
