@@ -28,8 +28,7 @@ public class GameResources : MonoBehaviour
     }
     private void Start()
     {
-       
-        //GameResources.UIAction += this.UpdateUI;
+        
         gameScoreSlider.maxValue = maxLevelScore;
         menuScoreSlider.maxValue = maxLevelScore;
     }

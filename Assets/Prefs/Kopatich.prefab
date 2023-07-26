@@ -156,10 +156,10 @@ MonoBehaviour:
   slingshotCenter: {fileID: 0}
   rope: {fileID: 2399570408597062913}
   collider: {fileID: 1081207528902677698}
+  trajectoryRenderer: {fileID: 0}
   lineRenderer: {fileID: 8326591681444137192}
   line: {fileID: 0}
   slingshot: {fileID: 0}
-  forceMultiplier: 150
   destroyAfterFire: 1
   rb: {fileID: 1979619774411134144}
   _isPressed: 0
@@ -212,7 +212,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: dfcefb48a0181ee479d366da8a4634e1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
